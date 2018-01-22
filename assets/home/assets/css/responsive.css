@@ -1,0 +1,41 @@
+@media (max-width:767px){
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	width:95%;
+	left:0;
+	right:0;
+	margin:25px auto 10px;
+}
+.nav > li{
+	margin-bottom:10px;
+	text-align: center;
+	
+}
+.navbar-toggle{
+	margin-top:25px;
+}
+.banner-type-search input{
+	text-align:center;
+}
+.more-searchdiv{
+	height: 161px;
+}
+.project-title {
+    margin-top: -50%;
+}
+.project-location {
+     margin-top: -40%;
+ }
+ .project-title h3 {
+       font-size: 34px;
+}
+.project-search {
+    margin: 40px 25px;
+}
+.table-project{overflow-x: auto;
+    left: 0;
+    width: 100%;}
+.baner-img img {
+    height: 600px;
+   }
+   ul.rooms{ padding: 0px 2px;}
+}
